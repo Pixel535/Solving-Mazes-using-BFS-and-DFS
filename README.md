@@ -1,3 +1,3 @@
 # Solving-Mazes-using-BFS-and-DFS
 
-Codes from Grokking machine learning book
+Codes based on pseudocodes from Grokking machine learning book
